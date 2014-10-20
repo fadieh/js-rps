@@ -35,29 +35,17 @@ h1 {
 }
 
 #scissors:hover {
-    border-bottom: 3px solid white;
-    border-bottom-right-radius: 2px;
-    border-bottom-left-radius: 2px;
-    border-bottom-top-radius: 2px;
-    border-bottom-bottom-radius: 2px;
+    border-bottom: 3px dotted white;
     padding-bottom: 50px;
 }
 
 #rock:hover {
-    border-bottom: 3px solid white;
-    border-bottom-right-radius: 2px;
-    border-bottom-left-radius: 2px;
-    border-bottom-top-radius: 2px;
-    border-bottom-bottom-radius: 2px;
+    border-bottom: 3px dotted white;
     padding-bottom: 50px;
 }
 
 #paper:hover {
-    border-bottom: 3px solid white;
-    border-bottom-right-radius: 2px;
-    border-bottom-left-radius: 2px;
-    border-bottom-top-radius: 2px;
-    border-bottom-bottom-radius: 2px;
+    border-bottom: 3px dotted white;
     padding-bottom: 50px;
 }
 
